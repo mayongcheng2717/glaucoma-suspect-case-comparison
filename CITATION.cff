@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: "Glaucoma suspects carry about half the genetic liability of confirmed disease: a genome-wide case–case comparison"
+type: software
+repository-code: "https://github.com/mayongcheng2717/glaucoma-suspect-case-comparison"
+license: CC-BY-4.0
+authors:
+  - family-names: Wang
+    given-names: Xiangyu
+  - family-names: Li
+    given-names: Yueming
+  - family-names: Ma
+    given-names: Yongcheng
+  - family-names: Yang
+    given-names: Chongzhi
+  - family-names: Zheng
+    given-names: Yi
+  - family-names: Gan
+    given-names: Huixin
+  - family-names: Yang
+    given-names: Xian
+preferred-citation:
+  type: article
+  title: "Glaucoma suspects carry about half the genetic liability of confirmed disease: a genome-wide case–case comparison"
+  authors:
+    - family-names: Wang
+      given-names: Xiangyu
+    - family-names: Li
+      given-names: Yueming
+    - family-names: Ma
+      given-names: Yongcheng
+    - family-names: Yang
+      given-names: Chongzhi
+    - family-names: Zheng
+      given-names: Yi
+    - family-names: Gan
+      given-names: Huixin
+    - family-names: Yang
+      given-names: Xian

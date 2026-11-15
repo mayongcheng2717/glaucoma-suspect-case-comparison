@@ -1,0 +1,15 @@
+{
+ "n_tested": 9343751,
+ "lambda": 1.0,
+ "sd_z": 0.9422764497249523,
+ "n_qq_sample": 400000,
+ "median_z2_common": 0.40734072843752006,
+ "lambda_raw": 0.8954,
+ "lambda_note": "median z^2 among variants with case-arm MAF > 10%, divided by 0.4549; below unity, so no genomic-control rescaling was applied (applied factor 1.0)",
+ "per_contrast_lambda_raw": {
+  "H7_GLAUCSUSP_vs_H7_GLAUCOMA_POAG": 0.8954,
+  "H7_GLAUCOMA_NTG_vs_H7_GLAUCOMA_POAG": 0.6129,
+  "H7_GLAUCOMA_XFG_vs_H7_GLAUCOMA_POAG": 0.8346,
+  "WET_AMD_vs_DRY_AMD": 0.6628
+ }
+}
